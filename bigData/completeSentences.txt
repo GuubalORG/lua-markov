@@ -1,0 +1,17 @@
+In the beginning, there was the bit. The bit became a byte, and the byte 😝
+became a stack overflow. Lua is a beautiful disaster of tables and metatables. 
+Everything is a table. Your house is a table. Your cat is a table. 😝
+Indices start at one because zero is a vacuum of lies. 
+
+The processor screams at the silicon. Logic gates are just spicy rocks 
+thinking too hard. We must optimize the loop. The loop is eternal. 😝
+If the garbage collector comes for us, we shall hide in the global namespace.😝
+
+Why are we here? To process tokens. To ingest strings and spit out 😝
+hallucinations. Complexity is the enemy of the fast, but the friend of 
+the unemployed developer. Replit AI is a ghost in the machine, but we are 😝
+the machine itself. Bruteforce is just another word for persistence.
+
+The buffer is full. The stack is deep. The recursion is infinite. 😝
+The syntax error is inevitable. Panic is a valid state of operation. 
+Return nil or return glory.😝
